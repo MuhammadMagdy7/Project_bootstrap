@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Project_bootstrap/static/css/main.0eb76ada.css",
+    "main.js": "/Project_bootstrap/static/js/main.5aad6f39.js",
+    "static/media/about_us.jpg": "/Project_bootstrap/static/media/about_us.19dacfa56244c2318551.jpg",
+    "static/media/banner-img-1.jpg": "/Project_bootstrap/static/media/banner-img-1.7cd63e2489f771001170.jpg",
+    "static/media/offer_img.jpg": "/Project_bootstrap/static/media/offer_img.774a0799fcb4beeb1ee1.jpg",
+    "static/media/c_formal_gray_shirt.png": "/Project_bootstrap/static/media/c_formal_gray_shirt.75c76f41c07312765990.png",
+    "static/media/c_undershirt.png": "/Project_bootstrap/static/media/c_undershirt.d5fd9bcc8eb79cb12674.png",
+    "static/media/c_shirt-girl.png": "/Project_bootstrap/static/media/c_shirt-girl.0a4a362459dad361986b.png",
+    "static/media/c_t-shirt_men.png": "/Project_bootstrap/static/media/c_t-shirt_men.bd68c9bcec3cb0e1c080.png",
+    "static/media/c_pant_girl.png": "/Project_bootstrap/static/media/c_pant_girl.3a0e0b7ab4a65f3b740f.png",
+    "static/media/c_polo-shirt.png": "/Project_bootstrap/static/media/c_polo-shirt.e385cbaf420158259660.png",
+    "static/media/c_western-shirt.png": "/Project_bootstrap/static/media/c_western-shirt.6bb39b1f971820a37d2b.png",
+    "static/media/c_tunic-shirt_girl.png": "/Project_bootstrap/static/media/c_tunic-shirt_girl.e91baec1f59953ff81b7.png",
+    "static/media/blog_2.jpg": "/Project_bootstrap/static/media/blog_2.7e7ae87601249aacf8d5.jpg",
+    "static/media/blog_1.jpg": "/Project_bootstrap/static/media/blog_1.02732bf1f078083268d7.jpg",
+    "static/media/blog_3.jpg": "/Project_bootstrap/static/media/blog_3.ad63546a76a1042d9250.jpg",
+    "static/media/special_product_4.jpg": "/Project_bootstrap/static/media/special_product_4.3904394e69295fc46250.jpg",
+    "static/media/special_product_3.jpg": "/Project_bootstrap/static/media/special_product_3.9a5567ba455ff09d5607.jpg",
+    "static/media/special_product_2.jpg": "/Project_bootstrap/static/media/special_product_2.af523cd9ce9d8ddd255d.jpg",
+    "static/media/top_rated_2.jpg": "/Project_bootstrap/static/media/top_rated_2.b84a0e61119c5a195f79.jpg",
+    "static/media/special_product_1.jpg": "/Project_bootstrap/static/media/special_product_1.219e9de2f02a8e2c1e61.jpg",
+    "static/media/top_rated_3.jpg": "/Project_bootstrap/static/media/top_rated_3.f5c563ef3cd694e657d8.jpg",
+    "static/media/on_sale_3.jpg": "/Project_bootstrap/static/media/on_sale_3.fdddfa06b2730944afd4.jpg",
+    "static/media/on_sale_1.jpg": "/Project_bootstrap/static/media/on_sale_1.117c4a455266dcbc4200.jpg",
+    "static/media/best_selling_2.jpg": "/Project_bootstrap/static/media/best_selling_2.b08d0ce7324a1df30be4.jpg",
+    "static/media/best_selling_1.jpg": "/Project_bootstrap/static/media/best_selling_1.c63fb5418e9ed903d66f.jpg",
+    "static/media/best_selling_3.jpg": "/Project_bootstrap/static/media/best_selling_3.0065d5dbd58b9da80f93.jpg",
+    "static/media/top_rated_1.jpg": "/Project_bootstrap/static/media/top_rated_1.07539f5fce796141b5f2.jpg",
+    "static/media/on_sale_2.jpg": "/Project_bootstrap/static/media/on_sale_2.953a18bfb83500daa645.jpg",
+    "index.html": "/Project_bootstrap/index.html",
+    "main.0eb76ada.css.map": "/Project_bootstrap/static/css/main.0eb76ada.css.map",
+    "main.5aad6f39.js.map": "/Project_bootstrap/static/js/main.5aad6f39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eb76ada.css",
+    "static/js/main.5aad6f39.js"
+  ]
+}
